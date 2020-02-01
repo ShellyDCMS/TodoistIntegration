@@ -1,0 +1,6 @@
+{
+    "watch": ["."],
+    "ext": "ts",
+    "ignore": ["src/**/*.spec.ts"],
+    "exec": "ts-node --inspect --cache-directory .tscache ./src/app/server.ts"
+}
