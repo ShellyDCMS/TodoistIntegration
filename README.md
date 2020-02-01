@@ -15,6 +15,7 @@ git clone https://github.com/ShellyDCMS/TodoistIntegration.git <project_name>
 ```
 cd <project_name>
 npm install
+```
 
 - Build and run the project
 ```
@@ -31,6 +32,7 @@ To add TypeScript + Jest support, first install a few npm packages:
 ```
 npm install -D jest ts-jest
 ```
+
 `jest` is the testing framework itself, and `ts-jest` is just a simple function to make running TypeScript tests a little easier.
 
 ### Running tests
